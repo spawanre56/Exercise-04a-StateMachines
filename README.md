@@ -1,8 +1,7 @@
 # Exercise04a-StateMachines
 
 ## Implementation
-Which features you included.
-
+Features animations, a sprite,  the ability to have said animations turn to each side
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -12,4 +11,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Samuel Pawan-Reafsnyder
